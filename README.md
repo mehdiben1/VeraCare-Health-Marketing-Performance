@@ -29,7 +29,7 @@ So the goal of this project is to investigate the performance of marketing campa
 **VeraCare Health**
 
 # Data Structure:
-The dataset consisted of four key tables, provide a multi-angle view of marketing performance, customer acquisition, and insurance utilization. Each table plays a distinct role in the analytical workflow:
+The dataset consisted of **4 key tables**, provide a multi-angle view of marketing performance, customer acquisition and insurance utilization, with a total row count of **50K records**. Each table plays a distinct role in the analytical workflow:
 - **Campaigns:** Contains campaign-level data such as campaign_category, campaign_type, cost, clicks, impressions, days_run, and the platform used.
 - **Customers:** Stores customer-level records, including demographics (state), acquisition data (first_touch, signup_channel, campaign_id), and plan selection.
 - **Claims:** Captures usage behavior including  claim_date, claim_amount, covered_amount, and product_name.
