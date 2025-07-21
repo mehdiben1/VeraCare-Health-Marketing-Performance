@@ -122,5 +122,5 @@ Based on the insights and findings above, we would recommend the following:
 
 # Appendix:
 
-- For more details about the dataset and the data cleaning process check out the ERD and the Dataset Summary & Issue Log
-- Check out the full Power Bi report here
+- For more details about the dataset and the data cleaning process check out [the Dataset Summary & Issue Log ](https://github.com/mehdiben1/Power-Electro-Analysis/tree/main/Power%20Bi%20Dashboard)
+- Check out the full Power Bi report [here](https://github.com/mehdiben1/Power-Electro-Analysis/tree/main/Power%20Bi%20Dashboard)
