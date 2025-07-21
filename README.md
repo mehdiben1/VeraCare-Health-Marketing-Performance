@@ -13,6 +13,8 @@
     - [Cost per impression](#Cost-per-impression)
       
 - [Recommendations](#Recommendations)
+- [Presentation Sample](#Presentation-Sample)
+- [Appendix](#Appendix)
 
 </details>
 
@@ -52,6 +54,9 @@ Our analysis of VeraCare Health’s historical marketing campaign data reveals t
 
 These insights highlight the potential to optimize marketing budget allocation by prioritizing high-conversion campaigns and platforms.
 
+<img width="900" height="504" alt="image" src="https://github.com/user-attachments/assets/9da8d1c5-d1e9-4063-b935-3a08e2a04a13" />
+
+
 # Insights Deep Dive
 
 ## 1. Signup rate:
@@ -60,12 +65,17 @@ These insights highlight the potential to optimize marketing budget allocation b
 - Among the platforms, social media had the highest number of signups and a **slightly higher signup rate of 0.23%.**
 - **Within Email, Health for All campaigns far outperformed** other campaign categories at a 3.72% signup rate compared to <0.06% for other categories.
 
+<img width="815" height="327" alt="image" src="https://github.com/user-attachments/assets/75dc2a6f-bc7a-4da0-adc8-68caf83f9260" />
+
+
 
 ## 2. Cost per signup:
 
 - Across campaign categories, **Coverage Matters campaigns had by far the lowest cost per signup ($0.65)**, with Golden Years Security performing the worst in terms of cost and volume.
 - **TV signups had the highest cost but also the lowest volume**, this may be related to poor attribution abilities for this channel.
 - **Email and SEO both have similar costs per signups** ($4.04 and $5.24).
+
+<img width="848" height="333" alt="image" src="https://github.com/user-attachments/assets/ca0062c5-0b30-48c1-a246-52736c6a72fb" />
 
 
 ## 3. Click through rate:
@@ -74,6 +84,7 @@ These insights highlight the potential to optimize marketing budget allocation b
 - **Email also outperformed other channels in terms of CTR (16.71%)**, though the number of impressions was third-lowest (2M).
 - **Within Email, Health for All campaigns have the highest CTR at nearly 50%.**
 
+<img width="802" height="332" alt="image" src="https://github.com/user-attachments/assets/6b93248c-614e-4ba8-9e15-d65fc6c451eb" />
 
 
 ## 4. Cost per impression:
@@ -82,6 +93,7 @@ These insights highlight the potential to optimize marketing budget allocation b
 - Note that while Health For All had the highest CTR, this category had the highest impression cost ($0.025).
 - Social media had **the lowest cost per impression and the second highest clickthrough rate** after the mail platform. In contrast, **TV had the highest cost per impression with a click-through rate of 0%.**
 
+<img width="810" height="336" alt="image" src="https://github.com/user-attachments/assets/f897f495-a625-4508-ae7c-2f5cd8c58d09" />
 
 
 # Recommendations:
@@ -101,3 +113,14 @@ Based on the insights and findings above, we would recommend the following:
 - **Reallocate TV budget to Mail**, as impression costs are similar but CTR is almost 16x higher.
 
 
+# Presentation Sample:
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/0ee8d59a-ec13-4924-b944-5df628dd94aa" />
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/2f5fa850-957d-46e3-95a3-0d145ac6bcf7" />
+<img width="1920" height="1080" alt="13" src="https://github.com/user-attachments/assets/5dfc5287-fa50-4949-b66a-d9f6ca3124ab" />
+<img width="1920" height="1080" alt="VeraCare Health Presentation" src="https://github.com/user-attachments/assets/9966215f-0d67-4cc8-b312-622302349ae3" />
+
+# Appendix:
+
+- For more details about the dataset and the data cleaning process check out the ERD and the Dataset Summary & Issue Log
+- Check out the full Power Bi report here
