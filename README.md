@@ -123,7 +123,7 @@ The PowerPoint presentation presenting the above insights and recommendations fo
 
 # Appendix:
 
-- For more details about the dataset and the data cleaning process check out [the Dataset Summary & Issue Log ]([https://github.com/mehdiben1/Power-Electro-Analysis/tree/main/Power%20Bi%20Dashboard](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/blob/main/Scope%20of%20work%20%26%20Issues%20log/Data%20Cleaning%20Process%20-%20VeraCare%20Health%20Data%20set.pdf))
+- For more details about the dataset and the data cleaning process check out [the Dataset Summary & Issue Log ](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/blob/main/Scope%20of%20work%20%26%20Issues%20log/Data%20Cleaning%20Process%20-%20VeraCare%20Health%20Data%20set.pdf)
 
   
-- Check out the full Power Bi report [here]([https://github.com/mehdiben1/Power-Electro-Analysis/tree/main/Power%20Bi%20Dashboard](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/blob/main/Power%20Bi%20Dashboard/VeraCare%20Health.pbix))
+- Check out the full Power Bi report [here](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/blob/main/Power%20Bi%20Dashboard/VeraCare%20Health.pbix))
