@@ -114,6 +114,7 @@ Based on the insights and findings above, we would recommend the following:
 
 
 # Presentation Sample:
+The PowerPoint presentation presenting the above insights and recommendations for the marketing team can be found [here](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/blob/main/Presentation/VeraCare%20Health%20Presentation.pdf). Some highlights are shown below:
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/0ee8d59a-ec13-4924-b944-5df628dd94aa" />
 <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/2f5fa850-957d-46e3-95a3-0d145ac6bcf7" />
