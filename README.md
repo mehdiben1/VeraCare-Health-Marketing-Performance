@@ -27,7 +27,6 @@ The budget is allocated to drive two primary objectives:
 2.  to raise **awareness of VeraCare Health’s brand across the country.**
 
 So the goal of this project is to investigate the performance of marketing campaigns at VeraCare Health in order to surface recommendations on marketing budget allocation across future campaign categories.
-**VeraCare Health**
 
 # Data Structure:
 The dataset consisted of **4 key tables**, provide a multi-angle view of marketing performance, customer acquisition and insurance utilization, with a total row count of **50K records**. Each table plays a distinct role in the analytical workflow:
