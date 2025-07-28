@@ -55,7 +55,9 @@ These insights highlight the potential to optimize marketing budget allocation b
 
 <img width="900" height="504" alt="image" src="https://github.com/user-attachments/assets/9da8d1c5-d1e9-4063-b935-3a08e2a04a13" />
 
-An interactive Power BI dashboard used to report and explore Signup rate, CPS, CTR , CPC & CPI across key dimensions can be found [here]([https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/blob/main/Power%20Bi%20Dashboard/VeraCare%20Health.pbix)).
+
+An interactive Power BI dashboard used to report and explore Signup rate, CPS, CTR , CPC & CPI across key dimensions can be found [here](https://github.com/mehdiben1/VeraCare-Health-Marketing-Performance/tree/main/Power%20Bi%20Dashboard)
+
 
 # Insights Deep Dive
 
